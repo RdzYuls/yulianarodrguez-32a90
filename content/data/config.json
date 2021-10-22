@@ -2,7 +2,7 @@
     "title": "Stackbit Exto Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "yellow",
     "header": {
         "title": "Yuls",
         "has_nav": true,

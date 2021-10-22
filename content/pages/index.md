@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Yuliana Rodríguez Portilla
     content: |2
-                                     Relaciones Internacionales | Desarrollo Digital
+                 Relaciones Internacionales | Desarrollo Digital
     actions:
       - label: Let's talk
         url: /contact

@@ -4,7 +4,7 @@ subtitle: (Participación de Grupo SIMEC)
 date: '2019-05-10'
 thumb_image: /images/photo1630819744.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: /images/photo1630819744.jpeg
+image: /images/Agregar un título (1000 x 600 px).png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1

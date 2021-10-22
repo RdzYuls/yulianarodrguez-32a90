@@ -34,9 +34,4 @@ seo:
       relativeUrl: true
 layout: project
 ---
-
-Coordinación de Eventos desde la planeación del Merchadising hasta
-la gestión y diseño de los Stands, y el registro en las ferias nacionales
-e internacionales (por ejemplo: Automotive Meetings en Querétaro y
-la International Fastener Expo en las Vegas)
-
+###### Coordinación de Eventos desde la planeación del Merchadising hasta&#xA;la gestión y diseño de los Stands, y el registro en las ferias nacionales&#xA;e internacionales (por ejemplo: Automotive Meetings en Querétaro y&#xA;la International Fastener Expo en las Vegas)

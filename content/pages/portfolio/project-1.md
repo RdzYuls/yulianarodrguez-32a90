@@ -1,6 +1,6 @@
 ---
 title: Ferias Nacionales e Internacionales
-subtitle: (Para Grupo SIMEC)
+subtitle: (Participación de Grupo SIMEC)
 date: '2019-05-10'
 thumb_image: /images/photo1630819744.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'

@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Ferias Nacionales e Internacionales
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/photo1630819744.jpeg

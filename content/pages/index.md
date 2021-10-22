@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Yuliana Rodríguez Portilla
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Relaciones Internacionales | Desarrollo Digital 
     actions:
       - label: Let's talk
         url: /contact

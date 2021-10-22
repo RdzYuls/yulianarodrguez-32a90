@@ -8,7 +8,7 @@ sections:
     content: |2
                  Relaciones Internacionales | Desarrollo Digital
     actions:
-      - label: Let's talk
+      - label: Conectar
         url: /contact
         style: button
   - section_id: latest-projects

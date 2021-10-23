@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: Relaciones Internacionales | Tecnología | Desarrollo Digital
 hide_title: false
 col_number: three
 seo:

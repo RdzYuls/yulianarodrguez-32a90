@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: 'La Agenda 2030: El Futuro que Queremos'
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: /images/pen-g5ab066ab2_1920.jpg

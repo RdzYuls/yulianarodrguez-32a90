@@ -1,6 +1,6 @@
 ---
 title: Updaters English Community
-subtitle: Optional Project Subtitle
+subtitle: Update your Life to English
 date: '2019-04-30'
 thumb_image: /images/Captura.PNG
 thumb_image_alt: An orange on a blue background

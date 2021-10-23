@@ -16,7 +16,7 @@ sections:
     layout_style: mosaic
     title: Proyectos
     subtitle: >-
-      Participación en Ferias Nacionales e Internacionales, Community Manager,
+      Participación en Ferias Nacionales e Internacionales, Comunidad Digital,
       Webinars, etc.
     projects_number: 4
     view_all_label: Ver todos

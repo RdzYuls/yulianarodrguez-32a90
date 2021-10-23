@@ -30,7 +30,6 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-image: /images/Diseño sin título (2)-f1fe9ecc.png
 ---
 ***
 

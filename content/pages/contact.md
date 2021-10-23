@@ -26,7 +26,7 @@ sections:
         label: Título
         default_value: Por favor elige
         options:
-          - Saludo
+          - Oferta Laboral
           - Colaboración
           - Other
       - input_type: textarea

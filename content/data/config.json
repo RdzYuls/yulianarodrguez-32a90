@@ -29,7 +29,7 @@
             },
             {
                 "label": "CV1",
-                "url": "#CV",
+                "url": "CV",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,

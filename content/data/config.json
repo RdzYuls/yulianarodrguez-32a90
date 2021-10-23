@@ -28,6 +28,14 @@
                 "style": "link"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Sobre mí",
                 "url": "/sobremi/",
                 "style": "link"

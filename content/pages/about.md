@@ -3,7 +3,6 @@ title: Yuliana Rodríguez Portilla
 subtitle: >-
   Relaciones Internacionales | Gobernanza & Derechos Humanos | Desarrollo
   Digital & Tecnología
-image: images/about.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us

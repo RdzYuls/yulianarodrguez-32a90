@@ -79,25 +79,6 @@ sections:
 
 
           [Leer](https://www.academia.edu/40290782/Rese%C3%B1a_del_libro_Perspectivas_y_Oportunidades_de_la_Alianza_del_Pac%C3%ADfico_Isabel_Rodr%C3%ADguez_Aranda_y_Edgar_Vieira_Posada_eds\_)
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: lorem-ipsum
-    type: section_form
   - section_id: latest-posts
     type: section_posts
     title: Lo último del Blog

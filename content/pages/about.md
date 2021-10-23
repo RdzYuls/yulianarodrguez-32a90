@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-****
+***
 
 **¡Hola!**
 

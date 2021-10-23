@@ -107,7 +107,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Lo último del Blog
-    subtitle: Relaciones Internacionales y Desarrollo Digital
+    subtitle: Una internacionalista enamorada de la tecnología
     posts_number: 3
     col_number: three
     actions:

@@ -4,7 +4,7 @@ subtitle: Webinars
 date: '2019-02-26'
 thumb_image: /images/people-ge8467b611_1920.jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: /images/179556420_287894303047282_6861344462670994194_n.jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4

@@ -17,7 +17,7 @@ sections:
     title: Proyectos
     subtitle: An optional subtitle of the section
     projects_number: 4
-    view_all_label: View All
+    view_all_label: Ver todos
     view_all_url: portfolio
   - section_id: services
     type: section_grid

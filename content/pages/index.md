@@ -50,7 +50,7 @@ sections:
           La Cooperación Internacional en el marco de la Alianza del Pacífico
           ¿Primeros pasos hacia una integración profunda
         content: >
-          *Marzo, 2019*
+          *Marzo, 2019. BUAP.*
 
 
           Tesis aprobada con Cum Laude. Esta investigación sustenta que las
@@ -60,8 +60,6 @@ sections:
           neoliberalismo institucional para explicar la creación de identidad y
           el establecimiento de instituciones internacionales, tomando la
           Alianza del Pacífico como caso práctico.
-
-
 
 
           [Leer](https://www.academia.edu/51163195/La_Cooperaci%C3%B3n_Internacional_en_el_marco_de_la_Alianza_del_Pac%C3%ADfico_Primeros_pasos_hacia_una_integraci%C3%B3n_profunda)

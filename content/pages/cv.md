@@ -2,7 +2,7 @@
 title: CV
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Yuliana Rodríguez Portilla
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum

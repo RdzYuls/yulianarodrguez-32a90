@@ -26,7 +26,7 @@ sections:
         label: Título
         default_value: Por favor elige
         options:
-          - Error on the site
+          - null
           - Sponsorship
           - Other
       - input_type: textarea

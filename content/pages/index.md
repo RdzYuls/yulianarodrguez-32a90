@@ -64,7 +64,9 @@ sections:
 
 
           [Leer](https://www.academia.edu/51163195/La_Cooperaci%C3%B3n_Internacional_en_el_marco_de_la_Alianza_del_Pac%C3%ADfico_Primeros_pasos_hacia_una_integraci%C3%B3n_profunda)
-      - title: Service title
+      - title: >-
+          Reseña del libro: “Perspectivas y Oportunidades de la Alianza del
+          Pacífico” Isabel Rodríguez Aranda y Edgar Vieira Posada (eds.)
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.

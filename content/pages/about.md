@@ -3,7 +3,12 @@ title: Yuliana Rodríguez Portilla
 subtitle: >-
   Relaciones Internacionales | Gobernanza & Derechos Humanos | Desarrollo
   Digital & Tecnología
-image_alt: A man taking a picture
+image_alt: >-
+  Mi nombre es Yuliana Rodríguez, y estudié Relaciones Internacionales. Cuento
+  con un Máster en Gobernanza y Derechos Humanos por la Universidad Autónoma de
+  Madrid y estoy interesada en el Desarrollo Digital y la Tecnología. Considero
+  primordial su aprendizaje, así como la digitalización para el desarrollo
+  social y económico de cualquier país.
 seo:
   title: About Us
   description: This is the about us page

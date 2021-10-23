@@ -28,10 +28,19 @@ sections:
       - title: >-
           La Agenda Digital de la Alianza del Pacífico: Retos y Oportunidades
           para los DDHH.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          *Junio, 2021.*
+
+
+          Trabajo Fin de Máster, donde se analizan las Acciones de la Agenda
+          Digital de la Alianza del Pacífico bajo un enfoque de derechos
+          humanos, con la propuesta de que es necesario repensar el papel de los
+          mecanismos de integración y convertirlos en promotores del progreso
+          tecnológico y los derechos humanos para sus países miembros.
+
+
+          [Leer](https://www.academia.edu/51108626/La_Agenda_Digital_de_la_Alianza_del_Pac%C3%ADfico_Retos_y_Oportunidades_para_los_DDHH)
+
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam

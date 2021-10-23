@@ -2,7 +2,7 @@
 title: 'La Agenda 2030: El Futuro que Queremos'
 subtitle: Concurso de Ensayos
 date: '2019-04-08'
-thumb_image: /images/pen-g5ab066ab2_1920.jpg
+thumb_image: /images/imageonline-co-split-image (2).png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: /images/Agenda2030.PNG
 image_alt: A yellow retro telephone on a yellow background

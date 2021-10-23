@@ -27,7 +27,7 @@ sections:
         default_value: Por favor elige
         options:
           - Saludo
-          - Sponsorship
+          - Colaboración
           - Other
       - input_type: textarea
         name: message

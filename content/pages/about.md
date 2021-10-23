@@ -33,11 +33,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
+###### &#xA;¡Hola!&#xA;&#xA;Mi nombre es Yuliana Rodríguez, y estudié Relaciones Internacionales. Cuento con un Máster en Gobernanza y Derechos Humanos por la Universidad Autónoma de Madrid y estoy interesada en el Desarrollo Digital y la Tecnología. Considero primordial su aprendizaje, así como la digitalización para el desarrollo social y económico de cualquier país.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+###### Mi objetivo es aportar al Desarrollo Digital de Latinoamérica, desde un enfoque de las Relaciones Internacionales, Gobernanza y Derechos Humanos.&#xA;&#xA;Además cuento con experiencia en contacto con stakeholders (sector privado, académico, tercer sector y Gobierno), gestión de proyectos, investigación, y análisis y visualización de datos.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
 
-*Thank You for reading!*

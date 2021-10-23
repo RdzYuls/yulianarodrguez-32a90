@@ -28,7 +28,7 @@ sections:
         options:
           - Oferta Laboral
           - Colaboración
-          - Other
+          - Otro
       - input_type: textarea
         name: message
         label: Message

@@ -15,7 +15,9 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Proyectos
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      Participación en Ferias Nacionales e Internacionales, Community Manager,
+      Webinars, etc.
     projects_number: 4
     view_all_label: Ver todos
     view_all_url: portfolio

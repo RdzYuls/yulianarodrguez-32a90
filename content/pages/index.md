@@ -48,10 +48,22 @@ sections:
       - title: >-
           La Cooperación Internacional en el marco de la Alianza del Pacífico
           ¿Primeros pasos hacia una integración profunda
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          *Marzo, 2019*
+
+
+          Tesis aprobada con Cum Laude. Esta investigación sustenta que las
+          acciones de cooperación internacional que se llevan a cabo dentro de
+          los mecanismos de integración ayudan a lograr objetivos más complejos
+          como la integración en sí. La tesis utiliza el constructivismo y el
+          neoliberalismo institucional para explicar la creación de identidad y
+          el establecimiento de instituciones internacionales, tomando la
+          Alianza del Pacífico como caso práctico.
+
+
+
+
+          [Leer](https://www.academia.edu/51163195/La_Cooperaci%C3%B3n_Internacional_en_el_marco_de_la_Alianza_del_Pac%C3%ADfico_Primeros_pasos_hacia_una_integraci%C3%B3n_profunda)
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis

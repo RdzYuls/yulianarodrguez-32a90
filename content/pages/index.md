@@ -30,8 +30,8 @@ sections:
       - title: >-
           La Agenda Digital de la Alianza del Pacífico: Retos y Oportunidades
           para los DDHH.
-        content: >+
-          *Junio, 2021.*
+        content: >
+          *Junio, 2021. UAM.*
 
 
           Trabajo Fin de Máster, donde se analizan las Acciones de la Agenda
@@ -42,7 +42,6 @@ sections:
 
 
           [Leer](https://www.academia.edu/51108626/La_Agenda_Digital_de_la_Alianza_del_Pac%C3%ADfico_Retos_y_Oportunidades_para_los_DDHH)
-
       - title: >-
           La Alianza del Pacifico: Proceso de integración latinoamericana en
           construcción

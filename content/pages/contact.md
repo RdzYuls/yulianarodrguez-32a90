@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: |
-      ¡Hey! ¡Envíame un mensaje y hablemos! 
+      ¡Hey! ¡Envíame un mensaje y hablemos!
 
-      O bien, puedes escribirme al correo: hola@yulianarodriguez.com
+      O bien, puedes escribirme al correo: yulianarodriguezportilla@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:

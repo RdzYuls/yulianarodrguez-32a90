@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: CV
 hide_title: true
 sections: []
 seo:

@@ -2,7 +2,7 @@
 title: Semana de Negocios Internacionales
 subtitle: Webinars
 date: '2019-02-26'
-thumb_image: /images/imageonline-co-split-image (1)-4fed0acd.png
+thumb_image: /images/imageonline-co-split-image (3).png
 thumb_image_alt: A table tennis racket on a pink background
 image: /images/179556420_287894303047282_6861344462670994194_n.jpg
 image_alt: A table tennis racket on a pink background

@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-                                                                                 ![(/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(2\)-3816ee52.png)]
+![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(2\)-3816ee52.png)
 
 **¡Hola!**
 

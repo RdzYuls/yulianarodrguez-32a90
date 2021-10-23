@@ -28,14 +28,6 @@
                 "style": "link"
             },
             {
-                "label": "CV1",
-                "url": "CV",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Sobre mí",
                 "url": "/sobremi/",
                 "style": "link"

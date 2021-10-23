@@ -4,7 +4,7 @@ subtitle: Update your Life to English
 date: '2019-04-30'
 thumb_image: /images/Captura.PNG
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: /images/Agregar un título (1000 x 600 px) (3).png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2

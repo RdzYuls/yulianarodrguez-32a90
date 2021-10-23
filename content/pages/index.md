@@ -23,7 +23,7 @@ sections:
     type: section_grid
     title: Artículos Académicos
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Service Title
         content: >-

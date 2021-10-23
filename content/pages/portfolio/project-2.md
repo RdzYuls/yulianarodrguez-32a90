@@ -2,7 +2,7 @@
 title: Updaters English Community
 subtitle: Update your Life to English
 date: '2019-04-30'
-thumb_image: /images/Captura.PNG
+thumb_image: /images/Captura-bf88c082.PNG
 thumb_image_alt: An orange on a blue background
 image: /images/Agregar un título (1000 x 600 px) (3).png
 image_alt: An orange on a blue background

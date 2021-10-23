@@ -67,9 +67,18 @@ sections:
       - title: >-
           Reseña del libro: “Perspectivas y Oportunidades de la Alianza del
           Pacífico” Isabel Rodríguez Aranda y Edgar Vieira Posada (eds.)
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          *Abril, 2016.*
+
+
+          Reseña publicada en la Revista Mexicana de Política Exterior del
+          Instituto Matías Romero, Instituto Diplomático de México, parte de la
+          Secretaría de Relaciones Exteriores de México.
+
+
+
+
+          [Leer](https://www.academia.edu/40290782/Rese%C3%B1a_del_libro_Perspectivas_y_Oportunidades_de_la_Alianza_del_Pac%C3%ADfico_Isabel_Rodr%C3%ADguez_Aranda_y_Edgar_Vieira_Posada_eds\_)
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

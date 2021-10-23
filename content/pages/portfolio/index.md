@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Project Management
 layout_style: mosaic
 seo:
   title: Portfolio

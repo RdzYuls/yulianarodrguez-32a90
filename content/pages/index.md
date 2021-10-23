@@ -44,10 +44,7 @@ sections:
       - title: >-
           La Alianza del Pacifico: Proceso de integración latinoamericana en
           construcción
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: "*Abril, 2019.*\n\nEn el abanico del complejo y en varios casos desordenado espectro de procesos de integración en Latinoamérica, la Alianza del Pacífico (AP), constituida en 2011 por Chile, Colombia, México y Perú, ha conseguido captar los reflectores en la región y en otras regiones del mundo. La AP se alimenta de distintas estrategias que pretenden configurar un espacio de integración profunda entre sus agremiados, que, sobre sus regulaciones jurídicas, arquitectura institucional, acciones, y en particular proyectos de cooperación entre sus miembros da cuenta este capítulo.\_\n\n\n\n[Leer](https://www.academia.edu/40290888/La_Alianza_del_Pacifico_Proceso_de_integraci%C3%B3n_latinoamericana_en_construcci%C3%B3n)\n"
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

@@ -5,7 +5,6 @@ excerpt: >-
   placerat lorem.
 date: '2019-03-27'
 thumb_image_alt: A pile of books on the table
-image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
   description: >-

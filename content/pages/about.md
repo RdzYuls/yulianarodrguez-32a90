@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**¡Hola!**
+![](/images/profile-pic%20\(2\).png)**¡Hola!**
 
 Mi nombre es Yuliana Rodríguez, y estudié Relaciones Internacionales. Cuento con un Máster en Gobernanza y Derechos Humanos por la Universidad Autónoma de Madrid y estoy interesada en el Desarrollo Digital y la Tecnología. Considero primordial su aprendizaje, así como la digitalización para el desarrollo social y económico de cualquier país.
 

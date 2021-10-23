@@ -37,8 +37,6 @@ layout: page
 
 Mi nombre es Yuliana Rodríguez, y estudié Relaciones Internacionales. Cuento con un Máster en Gobernanza y Derechos Humanos por la Universidad Autónoma de Madrid y estoy interesada en el Desarrollo Digital y la Tecnología. Considero primordial su aprendizaje, así como la digitalización para el desarrollo social y económico de cualquier país.
 
-Mi objetivo es aportar al Desarrollo Digital de Latinoamérica desde un enfoque de las Relaciones Internacionales, Gobernanza y Derechos Humanos. Y sobretodo, que más personas de diversas áreas del conocimiento se interesen en incursionar en este mundo tecnológico, porque en la actualidad, quién no entiende de tecnología, no entiende el mundo. Más que espectádores, seamos actores de este cambio imparable que está sucediendo.
+Mi objetivo es aportar al Desarrollo Digital de Latinoamérica desde un enfoque de las Relaciones Internacionales, Gobernanza y Derechos Humanos. Y sobretodo, motivar a que más personas de diversas áreas del conocimiento incursionen en este mundo tecnológico.  Porque hoy en día: quién no entiende de tecnología, no entiende el mundo. Más que espectádores, seamos actores de este cambio imparable que está sucediendo.
 
-Además cuento con experiencia en contacto con stakeholders (sector privado, académico, tercer sector y Gobierno), gestión de proyectos, investigación, y análisis y visualización de datos.
-
-[Contáctame](https://www.linkedin.com/in/yulianarodriguezportilla/)
+[Contáctame](https://www.linkedin.com/in/yulianarodriguezportilla/) 

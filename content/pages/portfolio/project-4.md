@@ -1,6 +1,6 @@
 ---
 title: Semana de Negocios Internacionales
-subtitle: Optional Project Subtitle
+subtitle: Webinars
 date: '2019-02-26'
 thumb_image: /images/people-ge8467b611_1920.jpg
 thumb_image_alt: A table tennis racket on a pink background

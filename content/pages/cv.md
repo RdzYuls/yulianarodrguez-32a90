@@ -8,7 +8,7 @@ sections:
       *  
       ![](/images/Cronograma%20infogr%C3%A1fico%20de%20la%20historia%20del%20volibol%20\(3\).png)
     type: section_content
-    title: CV
+    title: Mi CV
 seo:
   title: ''
   description: ''

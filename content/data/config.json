@@ -38,7 +38,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "/images/Pincelada Rosada Fotografía Logo.png"
+        "logo_img": "/images/Pincelada Rosada Fotografía Logo.png",
+        "logo_img_alt": "Yuls"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",

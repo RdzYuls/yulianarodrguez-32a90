@@ -41,7 +41,9 @@ sections:
 
           [Leer](https://www.academia.edu/51108626/La_Agenda_Digital_de_la_Alianza_del_Pac%C3%ADfico_Retos_y_Oportunidades_para_los_DDHH)
 
-      - title: Service Title
+      - title: >-
+          La Alianza del Pacifico: Proceso de integración latinoamericana en
+          construcción
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,

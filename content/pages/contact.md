@@ -27,7 +27,7 @@ sections:
         default_value: Por favor elige
         options:
           - Saludo
-          - Colaboración
+          - Oferta Laboral/Colaboración
           - Otro
       - input_type: textarea
         name: message

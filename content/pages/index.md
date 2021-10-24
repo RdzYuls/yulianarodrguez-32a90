@@ -90,8 +90,8 @@ seo:
   title: Yuliana Rodríguez Portilla
   description: >-
     Yuliana Rodríguez estudió Relaciones Internacionales, tiene un máster en
-    Gobernanza y Derechos Humanos, y está interesada en la Tecnología y el
-    Desarrollo Digital
+    Gobernanza y Derechos Humanos y está interesada en la Tecnología y el
+    Desarrollo Digital.
   extra:
     - name: 'og:type'
       value: website

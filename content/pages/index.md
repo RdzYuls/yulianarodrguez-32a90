@@ -109,7 +109,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/yuls-96406a3d.png
       relativeUrl: true
     - name: 'twitter:card'
       value: summary

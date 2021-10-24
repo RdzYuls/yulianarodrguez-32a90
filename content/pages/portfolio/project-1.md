@@ -32,6 +32,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
+thumb_image_alt: 'Company Stand, International fair'
 ---
 *   Coordinación de Eventos desde la planeación del Merchadising hasta
     la gestión y diseño de los Stands, y el registro en las ferias nacionales

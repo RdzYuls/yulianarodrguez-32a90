@@ -2,9 +2,7 @@
 title: >-
   5 razones por las que debes aprender sobre Tecnología YA (más si estudiaste
   Relaciones Internacionales)
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: Post disponible el 30 de octubre de 2021.
 date: '2021-10-24'
 thumb_image: /images/earth-g9020fa5d2_1280.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table

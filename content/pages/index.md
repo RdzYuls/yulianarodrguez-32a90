@@ -87,7 +87,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Yuliana Rodríguez Portilla
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'

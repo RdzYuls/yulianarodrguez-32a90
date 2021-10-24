@@ -36,5 +36,5 @@ layout: project
 ---
 Coordinación del concurso de ensayos, desde la elaboración de la convocatoria, gestión del jurado calificador, comunicación interna y externa hasta la selección de ganadores. Los ensayos ganadores serán publicados en un libro por la Editorial Sapienza (Brasil).
 
-[Más información aquí.](http://rediberoestudios.org/events/ensayo-agenda-2030/)
+Más información [aquí](http://rediberoestudios.org/events/ensayo-agenda-2030/) o [Contáctame.](https://yulianarodriguez.me/contact/)
 

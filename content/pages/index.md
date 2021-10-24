@@ -111,5 +111,9 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Elements of Great Workplace Design
+title: 'Quien no entiende de Tecnología, no entiende el mundo.'
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.

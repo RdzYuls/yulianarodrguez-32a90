@@ -1,5 +1,5 @@
 ---
-title: 'Quien no entiende de Tecnología, no entiende el mundo.'
+title: jajaja
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.

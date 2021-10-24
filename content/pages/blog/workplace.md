@@ -1,7 +1,5 @@
 ---
-title: >-
-  5 razones por las que debes aprender de Tecnología YA (más sí eres de Ciencias
-  Sociales)
+title: 5 razones por las que debes aprender de Tecnología )
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.

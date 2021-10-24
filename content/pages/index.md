@@ -104,10 +104,6 @@ seo:
         Yuliana Rodríguez estudió #RelacionesInternacionales y está interesada
         en la #Tecnología y el #DesarrolloDigital
       keyName: property
-    - name: 'og:image'
-      value: images/exto_preview.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'

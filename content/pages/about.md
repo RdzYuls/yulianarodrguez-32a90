@@ -4,7 +4,7 @@ subtitle: >-
   Relaciones Internacionales | Gobernanza & Derechos Humanos | Desarrollo
   Digital & Tecnología
 seo:
-  title: About Us
+  title: Yuliana Rodríguez Portilla
   description: This is the about us page
   extra:
     - name: 'og:type'

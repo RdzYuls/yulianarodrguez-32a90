@@ -100,7 +100,9 @@ seo:
       value: Yuliana Rodríguez Portilla
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Yuliana Rodríguez estudió #RelacionesInternacionales y está interesada
+        en la #Tecnología y el #DesarrolloDigital
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png

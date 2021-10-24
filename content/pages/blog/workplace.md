@@ -6,7 +6,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2021-10-24'
-thumb_image: images/11_thumb.jpg
+thumb_image: /images/earth-g9020fa5d2_1280.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: /images/earth-g9020fa5d2_1280.jpg
 image_alt: A leather notebook and a pen on a wooden working table

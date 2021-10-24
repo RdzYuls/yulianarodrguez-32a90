@@ -5,7 +5,7 @@ subtitle: >-
   Digital & Tecnología
 seo:
   title: Yuliana Rodríguez Portilla
-  description: This is the about us page
+  description: Internacionalista interesada en el Desarrollo Digital y la Tecnología
   extra:
     - name: 'og:type'
       value: website

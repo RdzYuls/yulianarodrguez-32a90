@@ -29,7 +29,7 @@ sections:
           - Otro
       - input_type: textarea
         name: message
-        label: Mensage
+        label: Mensaje
         default_value: Tu mensaje
       - input_type: checkbox
         name: consent

@@ -36,4 +36,4 @@ layout: project
 ---
 Coordino las actividades de Updaters English Community, un lugar seguro, amigable y gratuito para practicar y mejorar tu inglés con personas de toda América Latina (también tenemos miembros de España y otras partes de Europa). Actualmente somos **+720 miembros** y tenemos varias actividades a lo largo de la semana. Únete a Updaters and *Update Your Life To English.*
 
-Más información[ aquí](https://linktr.ee/EnglishUpdaters) o [Contáctame](https://yulianarodriguez.me/contact/)
+Más información sobre Updaters[ aquí](https://linktr.ee/EnglishUpdaters) o [Contáctame](https://yulianarodriguez.me/contact/)

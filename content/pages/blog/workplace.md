@@ -1,6 +1,6 @@
 ---
 title: >-
-  5 razones por las que debes aprender sobre Tecnología YA (Y más si estudiaste
+  5 razones por las que debes aprender sobre Tecnología YA (más si estudiaste
   Relaciones Internacionales)
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan

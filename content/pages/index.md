@@ -104,8 +104,6 @@ seo:
         Yuliana Rodríguez estudió #RelacionesInternacionales y está interesada
         en la #Tecnología y el #DesarrolloDigital
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: Yuliana Rodríguez Portilla
     - name: 'twitter:description'

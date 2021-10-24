@@ -115,5 +115,9 @@ seo:
       value: summary
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/yuls-c343ae8c.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

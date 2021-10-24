@@ -38,3 +38,7 @@ thumb_image_alt: 'Company Stand, International fair'
     la gestión y diseño de los Stands, y el registro en las ferias nacionales
     e internacionales (por ejemplo: Automotive Meetings en Querétaro y
     la International Fastener Expo en las Vegas)
+
+
+
+[Contáctame](https://yulianarodriguez.me/contact/)

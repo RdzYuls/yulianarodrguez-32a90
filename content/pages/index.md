@@ -88,7 +88,9 @@ sections:
         style: button
 seo:
   title: Yuliana Rodríguez Portilla
-  description: The preview of the Exto theme
+  description: >-
+    Yuliana Rodríguez es una Internacionalista interesada en la Tecnología y el
+    Desarrollo Digital. Experta en Cooperación Internacional y Derechos Humanos.
   extra:
     - name: 'og:type'
       value: website

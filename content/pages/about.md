@@ -39,4 +39,5 @@ Soy Yuliana Rodríguez y estudié **Relaciones Internacionales** en la Beneméri
 
 Mi objetivo es aportar al Desarrollo Digital de Latinoamérica desde un enfoque de las Relaciones Internacionales, Gobernanza y Derechos Humanos. Y sobretodo, motivar a que más personas de diversas áreas del conocimiento incursionen en este mundo tecnológico.  Porque hoy en día: quién no entiende de tecnología, no entiende el mundo. Más que espectádores, seamos actores de este cambio imparable que está sucediendo.
 
+
 [Contáctame](https://www.linkedin.com/in/yulianarodriguezportilla/)

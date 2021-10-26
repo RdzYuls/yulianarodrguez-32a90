@@ -33,7 +33,6 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
-                <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9W8CTDTGZW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
